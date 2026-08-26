@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard – Excel
+# 📊 HR Dashboard – Excel
 
 ## 📌 Project Overview
 
