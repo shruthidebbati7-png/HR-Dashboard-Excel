@@ -46,4 +46,4 @@ The Excel dashboard provides an interactive visual representation of HR data usi
 
 Aspiring Data Analyst
 
-**Skills:** Excel | SQL | Power BI | Python | Data Analysis
+**Skills:** Excel | SQL | Power BI | Python | Data Analyst
