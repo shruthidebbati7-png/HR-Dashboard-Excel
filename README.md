@@ -6,6 +6,10 @@ This project is an interactive **HR Analytics Dashboard** created using Microsof
 
 The dashboard transforms raw employee data into meaningful insights about workforce distribution, employee demographics, departments, job roles, and key HR metrics.
 
+## 📊 Dashboard Preview
+
+![HR Dashboard](Excel%20Dashboard.png)
+
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
